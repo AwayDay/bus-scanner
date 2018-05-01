@@ -1,0 +1,10 @@
+openApi:
+  busStation:
+    host: http://openapi.tago.go.kr/openapi/service
+    key: Zyj4uycLHUpPu8eN18G2CpDL3dUFcKVSaDiIvXTlMnMVPEubOtabrPxJU2Y2Q2TA3tMazCLyRW1JfNEQ67mPLw%3D%3D
+
+spring:
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
